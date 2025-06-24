@@ -39,8 +39,7 @@ O foco do projeto está no uso de **JavaScript puro**, sem frameworks, para exer
 
 ## 🚀 Como visualizar
 
-Acesse a versão online clicando [aqui](https://oberon-23.github.io/todolist-javascript/)  
-Ou clone o repositório localmente:
+Clone o repositório localmente:
 
 ```bash
 git clone https://github.com/Oberon-23/todolist-javascript.git
